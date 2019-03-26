@@ -1,0 +1,1303 @@
+﻿Log file open, 03/25/19 20:23:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.915396
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.149s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz, GPU: NVIDIA Quadro K2200
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epiclocale=en-US
+LogInit: Base Directory: Q:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.26-00.23.58:934][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.26-00.23.58:934][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.26-00.23.58:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.03.26-00.23.58:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.26-00.23.58:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.03.26-00.23.58:936][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.03.26-00.23.58:943][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.26-00.23.58:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.26-00.23.58:944][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.26-00.23.58:945][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.26-00.23.58:945][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-00.23.58:945][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.26-00.23.58:973][  0]LogHAL: Display: Platform has ~ 32 GB [34262687744 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.26-00.23.58:973][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.26-00.23.58:973][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.26-00.23.58:973][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:973][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.26-00.23.58:974][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.26-00.23.58:975][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.26-00.23.58:975][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.03.26-00.23.58:975][  0]LogInit: Computer: A-C613-W09
+[2019.03.26-00.23.58:975][  0]LogInit: User: jasminegallard
+[2019.03.26-00.23.58:975][  0]LogInit: CPU Page size=4096, Cores=16
+[2019.03.26-00.23.58:975][  0]LogInit: High frequency timer resolution =2.533242 MHz
+[2019.03.26-00.23.58:976][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.03.26-00.23.58:976][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.26-00.23.58:976][  0]LogMemory: Process Physical Memory: 120.29 MB used, 120.29 MB peak
+[2019.03.26-00.23.58:976][  0]LogMemory: Process Virtual Memory: 107.28 MB used, 107.28 MB peak
+[2019.03.26-00.23.58:976][  0]LogMemory: Physical Memory: 8758.28 MB used,  23917.17 MB free, 32675.45 MB total
+[2019.03.26-00.23.58:976][  0]LogMemory: Virtual Memory: 594.22 MB used,  8388013.50 MB free, 8388608.00 MB total
+[2019.03.26-00.23.59:017][  0]LogInit: Using OS detected language (en-US).
+[2019.03.26-00.23.59:017][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.26-00.23.59:017][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.26-00.23.59:510][  0]LogStreaming: Display: Took  0.494s to InitEngineTextLocalization.
+[2019.03.26-00.23.59:511][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.03.26-00.23.59:511][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.03.26-00.23.59:511][  0]LogInit: Setting process to DPI aware
+[2019.03.26-00.23.59:553][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.26-00.23.59:553][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.26-00.23.59:871][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.26-00.23.59:871][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.26-00.23.59:903][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2200' (Feature Level 11_0)
+[2019.03.26-00.23.59:903][  0]LogD3D11RHI:       4034/0/16081 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.26-00.23.59:903][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.26-00.23.59:914][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.26-00.23.59:914][  0]LogD3D11RHI:     GPU DeviceId: 0x13ba (for the marketing name, search the web for "GPU Device Id")
+[2019.03.26-00.23.59:914][  0]LogWindows: EnumDisplayDevices:
+[2019.03.26-00.23.59:914][  0]LogWindows:    0. 'NVIDIA Quadro K2200' (P:1 D:1)
+[2019.03.26-00.23.59:914][  0]LogWindows:    1. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.03.26-00.23.59:915][  0]LogWindows:    2. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.03.26-00.23.59:915][  0]LogWindows:    3. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.03.26-00.23.59:915][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2019.03.26-00.23.59:915][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.03.26-00.23.59:916][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.03.26-00.23.59:916][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.26-00.23.59:916][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2200
+[2019.03.26-00.23.59:916][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2019.03.26-00.23.59:916][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2019.03.26-00.23.59:916][  0]LogRHI: Texture pool is 2824 MB (70% of 4034 MB)
+[2019.03.26-00.23.59:934][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.26-00.23.59:951][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.26-00.24.00:489][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.26-00.24.00:504][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.26-00.24.00:520][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.26-00.24.00:536][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.26-00.24.00:551][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.26-00.24.00:566][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.26-00.24.00:596][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.26-00.24.00:633][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.26-00.24.00:649][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-00.24.00:771][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.26-00.24.00:857][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.26-00.24.00:857][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.26-00.24.00:907][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.26-00.24.00:907][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.26-00.24.00:926][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.26-00.24.00:943][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.26-00.24.00:961][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.26-00.24.00:980][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.26-00.24.01:045][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.26-00.24.01:045][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.26-00.24.01:046][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.26-00.24.01:125][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Intermediate/Shaders/WorkingDirectory/7236/).
+[2019.03.26-00.24.01:125][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jasmine_gallard.FITSUNY/AppData/Local/Temp/UnrealShaderWorkingDir/3F1723D24CC665D86AAF60A90E46973C/'.
+[2019.03.26-00.24.01:127][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.26-00.24.01:127][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.26-00.24.01:127][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.26-00.24.01:908][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.26-00.24.02:053][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/jasmine_gallard.FITSUNY/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.26-00.24.02:053][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jasmine_gallard.FITSUNY/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.26-00.24.02:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.26-00.24.02:054][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.26-00.24.02:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.26-00.24.02:054][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.26-00.24.02:072][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.26-00.24.02:072][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.26-00.24.02:072][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.26-00.24.02:086][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jasmine_gallard.FITSUNY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.26-00.24.02:086][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.26-00.24.02:086][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.26-00.24.02:136][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.26-00.24.02:139][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.26-00.24.02:142][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.26-00.24.02:318][  0]LogAssetRegistry: FAssetRegistry took 0.0368 seconds to start up
+[2019.03.26-00.24.02:876][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-00.24.03:155][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.26-00.24.03:160][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.26-00.24.03:160][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.26-00.24.03:160][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.26-00.24.03:160][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.26-00.24.03:186][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2019.03.26-00.24.04:084][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.116020 seconds
+[2019.03.26-00.24.04:092][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.26-00.24.04:092][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.26-00.24.04:092][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.26-00.24.05:778][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.26-00.24.05:793][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.26-00.24.07:575][  0]SourceControl: Source control is disabled
+[2019.03.26-00.24.07:576][  0]SourceControl: Source control is disabled
+[2019.03.26-00.24.07:577][  0]SourceControl: Source control is disabled
+[2019.03.26-00.24.07:579][  0]SourceControl: Source control is disabled
+[2019.03.26-00.24.07:759][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.26-00.24.07:924][  0]LogOcInput: OculusInput pre-init called
+[2019.03.26-00.24.08:098][  0]LogEngine: Initializing Engine...
+[2019.03.26-00.24.08:099][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.26-00.24.08:101][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.26-00.24.08:101][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-00.24.08:101][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.26-00.24.08:101][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-00.24.08:672][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.26-00.24.08:688][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.26-00.24.08:712][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.24.08:734][  0]LogInit: FAudioDevice initialized.
+[2019.03.26-00.24.08:734][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.26-00.24.08:957][  0]LogDerivedDataCache: Saved boot cache 0.22s 71MB C:/Users/jasmine_gallard.FITSUNY/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.26-00.24.08:959][  0]LogInit: Texture streaming: Enabled
+[2019.03.26-00.24.08:986][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.26-00.24.09:011][  0]LogInit: Transaction tracking system initialized
+[2019.03.26-00.24.09:036][  0]BlueprintLog: New page: Editor Load
+[2019.03.26-00.24.09:140][  0]LocalizationService: Localization service is disabled
+[2019.03.26-00.24.09:891][  0]LogFileCache: Scanning file cache for directory 'Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/' took 0.02s
+[2019.03.26-00.24.09:892][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.26-00.24.09:892][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.26-00.24.09:892][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.26-00.24.09:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.26-00.24.09:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-00.24.09:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.26-00.24.09:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-00.24.10:057][  0]SourceControl: Source control is disabled
+[2019.03.26-00.24.10:057][  0]Cmd: MAP LOAD FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.26-00.24.10:058][  0]LightingResults: New page: Lighting Build
+[2019.03.26-00.24.10:061][  0]MapCheck: New page: Map Check
+[2019.03.26-00.24.10:061][  0]LightingResults: New page: Lighting Build
+[2019.03.26-00.24.10:965][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.26-00.24.10:977][  0]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_6.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.10:985][  0]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_8.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.10:991][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.26-00.24.11:122][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.26-00.24.11:123][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2019.03.26-00.24.11:123][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.066
+[2019.03.26-00.24.11:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.24.11:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.24.11:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.24.11:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.24.11:294][  0]LogCollectionManager: Loaded 0 collections in 0.001420 seconds
+[2019.03.26-00.24.11:333][  0]LogFileCache: Scanning file cache for directory 'Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Collections/' took 0.01s
+[2019.03.26-00.24.11:333][  0]LogFileCache: Scanning file cache for directory 'Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Developers/jasminegallard/Collections/' took 0.01s
+[2019.03.26-00.24.11:333][  0]LogFileCache: Scanning file cache for directory 'Q:/JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Collections/' took 0.01s
+[2019.03.26-00.24.11:333][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.26-00.24.11:348][  0]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2651 classes and 620 folders.
+[2019.03.26-00.24.11:359][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.26-00.24.11:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.26-00.24.11:441][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.26-00.24.11:448][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.26-00.24.11:620][  0]LogSlate: Took 0.001131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.26-00.24.11:624][  0]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.26-00.24.11:636][  0]LogSlate: Took 0.000546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.26-00.24.11:774][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.03.26-00.24.12:173][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.26-00.24.12:173][  0]LogLoad: (Engine Initialization) Total time: 16.24 seconds
+[2019.03.26-00.24.12:173][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.26-00.24.12:268][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.26-00.24.12:598][  3]LogAssetRegistry: Asset discovery search completed in 10.3025 seconds
+[2019.03.26-00.24.12:605][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.26-00.24.12:605][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.03.26-00.24.18:544][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-00.24.18:641][273]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.24.18:658][273]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.24.29:128][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-00.24.29:200][806]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.24.29:245][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.24.29:245][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.24.29:246][806]PIE: New page: PIE session: FirstPersonExampleMap (Mar 25, 2019, 4:24:29 PM)
+[2019.03.26-00.24.29:260][806]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.26-00.24.29:339][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078175s)
+[2019.03.26-00.24.29:340][806]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.26-00.24.29:341][806]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2019.03.26-00.24.29:341][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.080440s)
+[2019.03.26-00.24.29:484][806]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.24.29:494][806]LogInit: FAudioDevice initialized.
+[2019.03.26-00.24.29:537][806]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.26-00.24.29:542][806]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_6.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.29:543][806]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.25-20.24.29
+[2019.03.26-00.24.29:553][806]LogWorld: Bringing up level for play took: 0.013271
+[2019.03.26-00.24.29:576][806]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.03.26-00.24.29:577][806]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.416
+[2019.03.26-00.24.29:577][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.24.34:700][ 34]LogNet: Browse: /Game/LEVELS/3_18_19
+[2019.03.26-00.24.34:716][ 34]LogLoad: LoadMap: /Game/LEVELS/3_18_19
+[2019.03.26-00.24.35:200][ 34]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.24.35:201][ 34]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.26-00.24.35:205][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:206][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:206][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:207][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:211][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_458.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:212][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_460.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:213][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_462.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:214][ 34]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_464.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.35:221][ 34]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.24.35
+[2019.03.26-00.24.35:222][ 34]LogWorld: Bringing up level for play took: 0.020442
+[2019.03.26-00.24.35:229][ 34]LogLoad: Took 0.512883 seconds to LoadMap(/Game/LEVELS/3_18_19)
+[2019.03.26-00.24.57:274][941]LogNet: Browse: /Game/LEVELS/3_18_19
+[2019.03.26-00.24.57:290][941]LogLoad: LoadMap: /Game/LEVELS/3_18_19
+[2019.03.26-00.24.57:499][941]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.24.57:499][941]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.26-00.24.57:509][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:509][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:509][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:509][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:512][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_458.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:513][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_460.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:513][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_462.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:513][941]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_464.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.24.57:517][941]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.24.57
+[2019.03.26-00.24.57:518][941]LogWorld: Bringing up level for play took: 0.018158
+[2019.03.26-00.24.57:522][941]LogLoad: Took 0.232146 seconds to LoadMap(/Game/LEVELS/3_18_19)
+[2019.03.26-00.25.07:412][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.25.07:413][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.25.07:460][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.25.07:461][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.25.07:588][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.25.07:597][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.25.07:663][343]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.03.26-00.25.15:335][635]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.25.15:367][635]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.25.17:175][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-00.25.17:220][712]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-00.25.19:625][824]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.ghost_Blueprint_C_0.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Engine/Transient.World_3:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_0.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.25.22:827][916]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-00.25.22:837][916]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/GamemodeBP.GamemodeBP
+[2019.03.26-00.25.23:563][916]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2019.03.26-00.25.24:785][916]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.26-00.26.31:748][913]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widget/Clock.Clock
+[2019.03.26-00.27.19:696][131]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.03.26-00.27.22:712][175]LogSlate: Took 0.000707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.26-00.27.35:050][451]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.03.26-00.28.23:943][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Jewelerybox_BP.Jewelerybox_BP
+[2019.03.26-00.29.45:802][150]BlueprintLog: New page: Compile GamemodeBP
+[2019.03.26-00.29.49:844][257]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.29.49:909][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.29.49:909][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.29.49:909][257]PIE: New page: PIE session: FirstPersonExampleMap (Mar 25, 2019, 4:29:49 PM)
+[2019.03.26-00.29.49:909][257]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.26-00.29.49:945][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035592s)
+[2019.03.26-00.29.49:946][257]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.26-00.29.49:946][257]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2019.03.26-00.29.49:946][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036840s)
+[2019.03.26-00.29.50:095][257]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.29.50:106][257]LogInit: FAudioDevice initialized.
+[2019.03.26-00.29.50:136][257]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.26-00.29.50:139][257]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_6.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.50:139][257]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.25-20.29.50
+[2019.03.26-00.29.50:140][257]LogWorld: Bringing up level for play took: 0.002692
+[2019.03.26-00.29.50:153][257]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.031
+[2019.03.26-00.29.50:153][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.29.54:129][413]LogNet: Browse: /Game/LEVELS/3_18_19
+[2019.03.26-00.29.54:145][413]LogLoad: LoadMap: /Game/LEVELS/3_18_19
+[2019.03.26-00.29.54:342][413]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.29.54:342][413]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.26-00.29.54:345][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:345][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:345][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:346][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:348][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_458.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:349][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_460.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:349][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_462.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:350][413]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_464.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.29.54:354][413]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.29.54
+[2019.03.26-00.29.54:354][413]LogWorld: Bringing up level for play took: 0.011300
+[2019.03.26-00.29.54:359][413]LogLoad: Took 0.213477 seconds to LoadMap(/Game/LEVELS/3_18_19)
+[2019.03.26-00.30.07:805][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.30.07:806][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.30.07:855][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.30.07:856][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.30.07:988][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.30.07:999][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.30.08:050][935]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.26-00.31.24:139][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget/Clock" FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/Widget/Clock.uasset" SILENT=true
+[2019.03.26-00.31.24:172][378]LogSavePackage: Moving '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/ClockA38B194B47EE462A8958878E778191E5.tmp' to '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/Widget/Clock.uasset'
+[2019.03.26-00.31.26:421][445]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.31.26:481][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.31.26:481][445]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.26-00.31.26:493][445]LogPlayLevel: [PlayLevel] Compiling Clock before play...
+[2019.03.26-00.31.26:834][445]LogPlayLevel: PlayLevel: Blueprint regeneration took 352 ms (1 blueprints)
+[2019.03.26-00.31.26:834][445]PIE: New page: PIE session: FirstPersonExampleMap (Mar 25, 2019, 4:31:26 PM)
+[2019.03.26-00.31.26:834][445]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.03.26-00.31.26:867][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032664s)
+[2019.03.26-00.31.26:867][445]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.26-00.31.26:868][445]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2019.03.26-00.31.26:868][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.033782s)
+[2019.03.26-00.31.27:009][445]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.31.27:020][445]LogInit: FAudioDevice initialized.
+[2019.03.26-00.31.27:053][445]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.26-00.31.27:056][445]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_6.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.27:057][445]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.03.25-20.31.27
+[2019.03.26-00.31.27:058][445]LogWorld: Bringing up level for play took: 0.004273
+[2019.03.26-00.31.27:072][445]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.046
+[2019.03.26-00.31.27:072][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.31.28:648][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.31.28:648][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.31.28:702][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.31.28:702][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.03.26-00.31.28:837][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.31.29:118][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.31.29:166][509]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.26-00.31.31:690][588]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.31.31:703][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:703][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:703][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:703][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:706][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_458.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:707][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_460.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:707][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_462.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:708][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_464.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.31:718][588]LogAssetEditorManager: Opening Asset editor for World /Game/LEVELS/3_18_19.3_18_19
+[2019.03.26-00.31.33:285][588]LogSlate: Window 'Save Content' being destroyed
+[2019.03.26-00.31.33:296][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GamemodeBP" FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/GamemodeBP.uasset" SILENT=true
+[2019.03.26-00.31.33:335][588]LogSavePackage: Moving '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/GamemodeBP8FEA2556417C147B110FA8BF420331F7.tmp' to '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/GamemodeBP.uasset'
+[2019.03.26-00.31.33:380][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Jewelerybox_BP" FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/Jewelerybox_BP.uasset" SILENT=true
+[2019.03.26-00.31.33:437][588]LogSavePackage: Moving '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Jewelerybox_BP1D98D7A749BE2CA08C6E96BCF03811FB.tmp' to '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/Jewelerybox_BP.uasset'
+[2019.03.26-00.31.33:444][588]Cmd: MAP LOAD FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/LEVELS/3_18_19.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.26-00.31.33:444][588]LightingResults: New page: Lighting Build
+[2019.03.26-00.31.33:446][588]LoadErrors: New page: Loading map: 3_18_19.umap
+[2019.03.26-00.31.33:523][588]MapCheck: New page: Map Check
+[2019.03.26-00.31.33:523][588]LightingResults: New page: Lighting Build
+[2019.03.26-00.31.33:670][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:670][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:670][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:670][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:674][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_470.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:674][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_472.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:675][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_474.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:675][588]PIE: Warning: AttachTo: '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_476.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.33:830][588]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.26-00.31.34:003][588]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.26-00.31.34:003][588]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.03.26-00.31.34:003][588]LogFileHelpers: Loading map '3_18_19' took 0.562
+[2019.03.26-00.31.35:131][617]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.31.35:143][617]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.31.36:093][648]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.31.36:171][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.31.36:171][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.31.36:171][648]PIE: New page: PIE session: 3_18_19 (Mar 25, 2019, 4:31:36 PM)
+[2019.03.26-00.31.36:172][648]LogPlayLevel: Creating play world package: /Game/LEVELS/UEDPIE_0_3_18_19
+[2019.03.26-00.31.36:261][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088954s)
+[2019.03.26-00.31.36:262][648]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.31.36:263][648]LogPlayLevel: PIE: World Init took: (0.001819s)
+[2019.03.26-00.31.36:263][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVELS/3_18_19.3_18_19 to /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 (0.091362s)
+[2019.03.26-00.31.36:410][648]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.31.36:419][648]LogInit: FAudioDevice initialized.
+[2019.03.26-00.31.36:449][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.26-00.31.36:451][648]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.36:452][648]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.36:452][648]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.36:452][648]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.31.36:453][648]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.31.36
+[2019.03.26-00.31.36:454][648]LogWorld: Bringing up level for play took: 0.003939
+[2019.03.26-00.31.36:473][648]PIE: Play in editor start time for /Game/LEVELS/UEDPIE_0_3_18_19 -0.644
+[2019.03.26-00.31.36:474][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.31.48:187][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.31.48:188][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.31.48:247][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.31.48:248][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.31.48:393][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.31.48:404][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.31.48:448][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.26-00.32.14:628][508]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.26-00.32.26:074][522]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.32.26:131][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.32.26:131][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.32.26:131][522]PIE: New page: PIE session: 3_18_19 (Mar 25, 2019, 4:32:26 PM)
+[2019.03.26-00.32.26:131][522]LogPlayLevel: Creating play world package: /Game/LEVELS/UEDPIE_0_3_18_19
+[2019.03.26-00.32.26:161][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029566s)
+[2019.03.26-00.32.26:162][522]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.32.26:162][522]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2019.03.26-00.32.26:162][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVELS/3_18_19.3_18_19 to /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 (0.030682s)
+[2019.03.26-00.32.26:296][522]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.32.26:306][522]LogInit: FAudioDevice initialized.
+[2019.03.26-00.32.26:336][522]LogLoad: Game class is 'GamemodeBP_C'
+[2019.03.26-00.32.26:338][522]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.32.26:338][522]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.32.26:338][522]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.32.26:338][522]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.32.26:339][522]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.32.26
+[2019.03.26-00.32.26:340][522]LogWorld: Bringing up level for play took: 0.003655
+[2019.03.26-00.32.26:355][522]PIE: Play in editor start time for /Game/LEVELS/UEDPIE_0_3_18_19 -0.76
+[2019.03.26-00.32.26:355][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.33.31:634][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.33.31:635][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.33.31:688][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.33.31:688][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.33.31:816][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.33.32:086][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.33.32:146][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.26-00.33.35:466][189]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.33.35:498][189]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.34.02:088][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.34.02:139][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.34.02:139][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.34.02:139][912]PIE: New page: PIE session: 3_18_19 (Mar 25, 2019, 4:34:02 PM)
+[2019.03.26-00.34.02:139][912]LogPlayLevel: Creating play world package: /Game/LEVELS/UEDPIE_0_3_18_19
+[2019.03.26-00.34.02:185][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045692s)
+[2019.03.26-00.34.02:186][912]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.34.02:186][912]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2019.03.26-00.34.02:186][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVELS/3_18_19.3_18_19 to /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 (0.046913s)
+[2019.03.26-00.34.02:331][912]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.34.02:341][912]LogInit: FAudioDevice initialized.
+[2019.03.26-00.34.02:376][912]LogLoad: Game class is 'GamemodeBP_C'
+[2019.03.26-00.34.02:380][912]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.34.02:380][912]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.34.02:381][912]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.34.02:381][912]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.34.02:383][912]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.34.02
+[2019.03.26-00.34.02:384][912]LogWorld: Bringing up level for play took: 0.007166
+[2019.03.26-00.34.02:404][912]PIE: Play in editor start time for /Game/LEVELS/UEDPIE_0_3_18_19 -0.707
+[2019.03.26-00.34.02:405][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.35.14:065][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.35.14:065][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.35.14:117][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.35.14:117][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.35.14:251][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.35.14:262][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.35.14:309][104]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.26-00.36.20:291][ 69]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.03.26-00.36.52:805][691]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ghost_Blueprint.ghost_Blueprint
+[2019.03.26-00.36.53:811][691]PIE: Warning: AttachTo: '/Engine/Transient.World_13:PersistentLevel.ghost_Blueprint_C_0.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Engine/Transient.World_13:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_0.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.37.00:215][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.37.00:272][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.37.00:272][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.37.00:272][ 66]PIE: New page: PIE session: 3_18_19 (Mar 25, 2019, 4:37:00 PM)
+[2019.03.26-00.37.00:273][ 66]LogPlayLevel: Creating play world package: /Game/LEVELS/UEDPIE_0_3_18_19
+[2019.03.26-00.37.00:316][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043087s)
+[2019.03.26-00.37.00:317][ 66]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.37.00:317][ 66]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2019.03.26-00.37.00:317][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVELS/3_18_19.3_18_19 to /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 (0.044394s)
+[2019.03.26-00.37.00:461][ 66]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.37.00:476][ 66]LogInit: FAudioDevice initialized.
+[2019.03.26-00.37.00:507][ 66]LogLoad: Game class is 'GamemodeBP_C'
+[2019.03.26-00.37.00:510][ 66]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.37.00:510][ 66]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.37.00:510][ 66]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.37.00:511][ 66]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.37.00:512][ 66]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.37.00
+[2019.03.26-00.37.00:512][ 66]LogWorld: Bringing up level for play took: 0.004136
+[2019.03.26-00.37.00:528][ 66]PIE: Play in editor start time for /Game/LEVELS/UEDPIE_0_3_18_19 -0.577
+[2019.03.26-00.37.00:528][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.37.29:190][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.37.29:191][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.37.29:252][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.37.29:252][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.37.29:399][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.37.29:663][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.37.29:721][211]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.26-00.37.30:618][247]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.37.30:645][247]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.37.39:586][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVELS/3_18_19" FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/LEVELS/3_18_19.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.26-00.37.40:053][560]LogSavePackage: Moving '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/3_18_193EBE48534D402317A474ADBDEE38BF61.tmp' to '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/LEVELS/3_18_19.umap'
+[2019.03.26-00.37.41:018][560]LogFileHelpers: Saving map '3_18_19' took 1.432
+[2019.03.26-00.37.41:023][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GamemodeBP" FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/GamemodeBP.uasset" SILENT=true
+[2019.03.26-00.37.41:080][560]LogSavePackage: Moving '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/GamemodeBP271264854D4EDEF413D2BF9F65D09D1D.tmp' to '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/GamemodeBP.uasset'
+[2019.03.26-00.38.04:932][766]SourceControl: Source control is disabled
+[2019.03.26-00.38.16:218][129]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2019.03.26-00.38.16:218][129]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+The requested name is valid, but no data of the requested type was found. 
+
+[2019.03.26-00.38.24:548][949]LogSlate: Window 'Source Control Login' being destroyed
+[2019.03.26-00.39.38:245][653]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UUserWidget::AddToViewport' [Element not found.]
+[2019.03.26-00.39.46:112][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.39.46:164][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.39.46:164][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.39.46:164][ 89]PIE: New page: PIE session: 3_18_19 (Mar 25, 2019, 4:39:46 PM)
+[2019.03.26-00.39.46:164][ 89]LogPlayLevel: Creating play world package: /Game/LEVELS/UEDPIE_0_3_18_19
+[2019.03.26-00.39.46:195][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030624s)
+[2019.03.26-00.39.46:196][ 89]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.39.46:196][ 89]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2019.03.26-00.39.46:196][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVELS/3_18_19.3_18_19 to /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 (0.031867s)
+[2019.03.26-00.39.46:341][ 89]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.39.46:351][ 89]LogInit: FAudioDevice initialized.
+[2019.03.26-00.39.46:388][ 89]LogLoad: Game class is 'GamemodeBP_C'
+[2019.03.26-00.39.46:391][ 89]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.39.46:391][ 89]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.39.46:391][ 89]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.39.46:391][ 89]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.39.46:392][ 89]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.39.46
+[2019.03.26-00.39.46:393][ 89]LogWorld: Bringing up level for play took: 0.003831
+[2019.03.26-00.39.46:408][ 89]PIE: Play in editor start time for /Game/LEVELS/UEDPIE_0_3_18_19 -0.69
+[2019.03.26-00.39.46:409][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.39.50:432][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.39.50:433][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.39.50:495][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.39.50:496][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.39.50:638][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.39.50:690][374]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.26-00.39.51:991][412]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.39.52:011][412]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.47.44:233][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LEVELS/3_18_19' took 0.138
+[2019.03.26-00.47.44:235][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GamemodeBP] ([1] browsable assets)...
+[2019.03.26-00.47.44:235][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GamemodeBP]
+[2019.03.26-00.47.44:264][ 99]LogSavePackage: Moving '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/GamemodeBP_Auto126E71548489350FEE173369670CDB274.tmp' to '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/Autosaves/Game/Blueprints/GamemodeBP_Auto1.uasset'
+[2019.03.26-00.47.44:265][ 99]LogFileHelpers: Auto-saving content packages took 0.031
+[2019.03.26-00.50.01:951][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GamemodeBP" FILE="../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/GamemodeBP.uasset" SILENT=true
+[2019.03.26-00.50.01:993][730]LogSavePackage: Moving '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Saved/GamemodeBP508535F24ACDAF3A17289A946FF39C80.tmp' to '../../../../JGallard/VRCLASS/Game2019/GAME2019/MyProject/Content/Blueprints/GamemodeBP.uasset'
+[2019.03.26-00.50.04:298][837]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.50.04:331][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.04:331][837]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.26-00.50.04:351][837]LogPlayLevel: [PlayLevel] Compiling GamemodeBP before play...
+[2019.03.26-00.50.04:710][837]LogPlayLevel: PlayLevel: Blueprint regeneration took 379 ms (1 blueprints)
+[2019.03.26-00.50.04:710][837]PIE: New page: PIE session: 3_18_19 (Mar 25, 2019, 4:50:04 PM)
+[2019.03.26-00.50.04:710][837]LogPlayLevel: Creating play world package: /Game/LEVELS/UEDPIE_0_3_18_19
+[2019.03.26-00.50.04:736][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025555s)
+[2019.03.26-00.50.04:737][837]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.50.04:737][837]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2019.03.26-00.50.04:737][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVELS/3_18_19.3_18_19 to /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 (0.026761s)
+[2019.03.26-00.50.04:844][837]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.50.04:858][837]LogInit: FAudioDevice initialized.
+[2019.03.26-00.50.04:887][837]LogLoad: Game class is 'GamemodeBP_C'
+[2019.03.26-00.50.04:890][837]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.04:890][837]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.04:890][837]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.04:890][837]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.04:891][837]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.50.04
+[2019.03.26-00.50.04:892][837]LogWorld: Bringing up level for play took: 0.003479
+[2019.03.26-00.50.04:907][837]PIE: Play in editor start time for /Game/LEVELS/UEDPIE_0_3_18_19 -0.167
+[2019.03.26-00.50.04:907][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.04:930][838]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098966 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2019.03.26-00.50.09:736][360]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0
+[2019.03.26-00.50.09:848][371]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0
+[2019.03.26-00.50.18:843][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.18:843][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.50.18:894][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.50.18:894][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.19:027][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.50.19:038][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-00.50.19:082][384]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.03.26-00.50.19:888][414]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.50.19:915][414]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.50.22:107][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-00.50.22:188][504]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-00.50.22:252][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.22:252][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-00.50.22:252][504]PIE: New page: PIE session: 3_18_19 (Mar 25, 2019, 4:50:22 PM)
+[2019.03.26-00.50.22:252][504]LogPlayLevel: Creating play world package: /Game/LEVELS/UEDPIE_0_3_18_19
+[2019.03.26-00.50.22:291][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038748s)
+[2019.03.26-00.50.22:293][504]LogAIModule: Creating AISystem for world 3_18_19
+[2019.03.26-00.50.22:294][504]LogPlayLevel: PIE: World Init took: (0.002340s)
+[2019.03.26-00.50.22:294][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVELS/3_18_19.3_18_19 to /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 (0.041476s)
+[2019.03.26-00.50.22:432][504]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-00.50.22:443][504]LogInit: FAudioDevice initialized.
+[2019.03.26-00.50.22:472][504]LogLoad: Game class is 'GamemodeBP_C'
+[2019.03.26-00.50.22:475][504]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_13.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.22:475][504]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint2_2.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_130.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.22:475][504]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint3_6.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_454.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.22:475][504]PIE: Warning: AttachTo: '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.ghost_Blueprint4.KillZVolume' is not static  (in blueprint "ghost_Blueprint"), cannot attach '/Game/LEVELS/UEDPIE_0_3_18_19.3_18_19:PersistentLevel.KillZVolume_GEN_VARIABLE_KillZVolume_CAT_456.BrushComponent0' which is static to it. Aborting.
+[2019.03.26-00.50.22:476][504]LogWorld: Bringing World /Game/LEVELS/UEDPIE_0_3_18_19.3_18_19 up for play (max tick rate 0) at 2019.03.25-20.50.22
+[2019.03.26-00.50.22:477][504]LogWorld: Bringing up level for play took: 0.004234
+[2019.03.26-00.50.22:493][504]PIE: Play in editor start time for /Game/LEVELS/UEDPIE_0_3_18_19 -0.58
+[2019.03.26-00.50.22:493][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.23:297][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.23:297][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.50.23:361][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.26-00.50.23:361][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel' has LevelScriptBlueprint '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19' with GeneratedClass '/Game/LEVELS/3_18_19.3_18_19_C' with ClassGeneratedBy '/Game/LEVELS/3_18_19.3_18_19:PersistentLevel.3_18_19'
+[2019.03.26-00.50.23:491][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.26-00.50.23:550][537]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.03.26-00.52.01:271][119]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.52.01:273][119]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-00.52.03:942][373]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.26-00.52.04:017][373]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.26-00.52.04:108][373]LogSlate: Window 'Jewelerybox_BP' being destroyed
+[2019.03.26-00.52.04:112][373]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.26-00.52.04:184][373]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2019.03.26-00.52.04:433][374]Cmd: QUIT_EDITOR
+[2019.03.26-00.52.04:489][374]LogExit: Preparing to exit.
+[2019.03.26-00.52.04:980][374]LogExit: Editor shut down
+[2019.03.26-00.52.04:981][374]LogExit: Transaction tracking system shut down
+[2019.03.26-00.52.05:386][374]LogExit: Object subsystem successfully closed.
+[2019.03.26-00.52.05:455][374]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.26-00.52.05:464][374]LogD3D11RHI: Shutdown
+[2019.03.26-00.52.05:464][374]LogD3D11RHI: CleanupD3DDevice
+[2019.03.26-00.52.05:469][374]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.26-00.52.05:489][374]LogModuleManager: Shutting down and abandoning module SequencerWidgets (630)
+[2019.03.26-00.52.05:489][374]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.03.26-00.52.05:489][374]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.03.26-00.52.05:489][374]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.03.26-00.52.05:489][374]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.03.26-00.52.05:489][374]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.03.26-00.52.05:489][374]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.03.26-00.52.05:490][374]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.03.26-00.52.05:490][374]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.03.26-00.52.05:490][374]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.26-00.52.05:491][374]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.26-00.52.05:492][374]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.26-00.52.06:533][374]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.26-00.52.06:534][374]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.26-00.52.06:535][374]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.26-00.52.06:585][374]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.26-00.52.06:585][374]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.26-00.52.06:585][374]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.26-00.52.06:585][374]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.26-00.52.06:585][374]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.26-00.52.06:585][374]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.26-00.52.06:586][374]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.26-00.52.06:586][374]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.26-00.52.06:586][374]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.26-00.52.06:586][374]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.26-00.52.06:597][374]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.26-00.52.06:597][374]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.26-00.52.06:601][374]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.26-00.52.06:601][374]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.26-00.52.06:601][374]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.26-00.52.06:601][374]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.26-00.52.06:601][374]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.26-00.52.06:601][374]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.26-00.52.06:601][374]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.26-00.52.06:602][374]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.26-00.52.06:608][374]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.26-00.52.06:783][374]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.26-00.52.06:784][374]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.26-00.52.06:791][374]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.26-00.52.06:792][374]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.26-00.52.06:793][374]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.26-00.52.06:794][374]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.26-00.52.06:794][374]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.26-00.52.06:794][374]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.26-00.52.06:794][374]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.26-00.52.06:794][374]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.26-00.52.06:794][374]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.26-00.52.06:794][374]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.26-00.52.06:894][374]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.26-00.52.06:994][374]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.26-00.52.06:994][374]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.26-00.52.06:994][374]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.26-00.52.06:994][374]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.26-00.52.06:994][374]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.26-00.52.06:994][374]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.26-00.52.06:994][374]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.26-00.52.06:996][374]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.26-00.52.06:996][374]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.26-00.52.06:996][374]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.26-00.52.06:997][374]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.26-00.52.06:998][374]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.26-00.52.07:000][374]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.26-00.52.07:000][374]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.26-00.52.07:000][374]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.26-00.52.07:000][374]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.26-00.52.07:000][374]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.26-00.52.07:000][374]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.26-00.52.07:000][374]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.26-00.52.07:002][374]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.26-00.52.07:007][374]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.26-00.52.07:008][374]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.26-00.52.07:009][374]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.26-00.52.07:009][374]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.26-00.52.07:009][374]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.26-00.52.07:009][374]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.26-00.52.07:013][374]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.26-00.52.07:084][374]LogDerivedDataCache: Shutdown
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.26-00.52.07:084][374]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.26-00.52.07:085][374]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.26-00.52.07:086][374]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.26-00.52.07:086][374]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.26-00.52.07:086][374]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.26-00.52.07:087][374]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.26-00.52.07:087][374]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.26-00.52.07:088][374]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.26-00.52.07:088][374]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.26-00.52.07:090][374]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.26-00.52.07:090][374]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.26-00.52.07:105][374]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.26-00.52.07:105][374]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.26-00.52.07:106][374]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.26-00.52.07:106][374]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.26-00.52.07:106][374]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.26-00.52.07:107][374]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.26-00.52.07:107][374]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.26-00.52.07:129][374]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.26-00.52.07:129][374]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.26-00.52.07:129][374]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B81E7C89F-4199-1BC0-DF56-43A00DF5F75C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=94d09d42465787563429e4997569310f%7C5446554fc0654bce9df05a304a655541%7C0cc606f2-af8b-489b-8050-cb477c0a79b3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.26-00.52.07:161][374]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.26-00.52.07:164][374]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.26-00.52.07:164][374]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.26-00.52.07:165][374]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.26-00.52.07:165][374]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.26-00.52.07:165][374]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.26-00.52.07:166][374]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.26-00.52.07:166][374]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.26-00.52.07:166][374]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.26-00.52.07:166][374]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.26-00.52.07:166][374]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.26-00.52.07:167][374]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.26-00.52.07:168][374]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.26-00.52.07:230][374]LogExit: Exiting.
+[2019.03.26-00.52.07:239][374]Log file closed, 03/25/19 20:52:07
